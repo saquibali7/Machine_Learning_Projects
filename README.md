@@ -9,3 +9,4 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 5. <a href="https://github.com/saquibali7/D-SRGAN">D-SRGAN</a>
 6. <a href="https://github.com/saquibali7/WGAN_for_SuperResolution">WGAN Super Resolution</a>
 7. <a href="https://github.com/saquibali7/Face_Verfication-System">Face Verification System</a>
+8. <a href="https://github.com/saquibali7/EmbryoMask">Embryo Mask</a>
