@@ -1,4 +1,5 @@
 # Machine_Learning_Projects:
+Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy
 
 ### Links of repository of Machine Learning Projects and research paper code i have reproduced.
 1. <a href="https://github.com/saquibali7/MovieRecommender">Movie Recommender System</a>
